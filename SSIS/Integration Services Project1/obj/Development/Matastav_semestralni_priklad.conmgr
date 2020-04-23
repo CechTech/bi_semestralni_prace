@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Matastav_semestralni_priklad"
+  DTS:DTSID="{CBD818EC-ABF4-4B17-9DD0-94CD0CFB88B7}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=H:\bi_semestralni_prace\Source\Databaze\Matastav_semestralni_priklad.mdb;Provider=Microsoft.Jet.OLEDB.4.0;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

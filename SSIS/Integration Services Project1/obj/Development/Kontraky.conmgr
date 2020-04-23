@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Kontraky"
+  DTS:DTSID="{91C93C7F-9FEB-4F01-A59D-E408867F692E}"
+  DTS:CreationName="MULTIFLATFILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:Format="Delimited"
+      DTS:LocaleID="1029"
+      DTS:HeaderRowDelimiter="_x000D__x000A_"
+      DTS:ColumnNamesInFirstDataRow="True"
+      DTS:RowDelimiter=""
+      DTS:TextQualifier="_x003C_none_x003E_"
+      DTS:CodePage="1250"
+      DTS:ConnectionString="H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_1.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_2.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_3.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_4.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_5.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_6.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_7.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_8.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_9.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_10.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_11.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_12.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_13.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_14.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_15.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_16.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_17.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_18.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_19.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_20.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_21.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_22.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_23.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_24.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_25.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_26.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_27.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_28.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_29.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_30.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_31.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_32.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_33.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_34.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_35.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_36.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_37.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_38.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_39.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_40.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_41.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_42.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_43.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_44.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_45.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_46.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_47.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_48.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_49.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_50.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_51.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_52.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_53.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_54.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_55.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_56.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_57.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_58.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_59.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_60.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_61.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_62.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_63.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_64.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_65.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_66.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_67.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_68.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_69.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_70.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_71.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_72.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_73.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_74.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_75.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_76.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_77.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_78.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_79.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_80.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_81.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_82.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_83.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_84.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_85.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_86.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_87.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_88.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_89.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_90.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_91.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_92.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_93.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_94.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_95.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_96.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_97.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_98.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_99.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_100.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_101.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_102.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_103.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_104.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_105.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_106.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_107.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_108.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_109.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_110.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_111.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_112.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_113.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_114.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_115.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_116.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_117.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_118.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_119.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_120.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_121.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_122.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_123.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_124.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_125.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_126.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_127.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_128.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_129.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_130.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_131.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_132.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_133.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_134.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_135.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_136.txt|H:\bi_semestralni_prace\Source\Kontraky\t_kontrakty_snimek_137.txt">
+      <DTS:FlatFileColumns>
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="idkontr"
+          DTS:DTSID="{9D287021-E9ED-4EE4-A16E-908574571116}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="idzak"
+          DTS:DTSID="{6702A654-DEA7-4A87-8FFB-75294FF0C573}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="idzdroje"
+          DTS:DTSID="{C1FC2809-1FA4-4DBD-A1F7-C0226FECFDD4}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="datumod"
+          DTS:DTSID="{1839AFFE-BB5C-4FA0-BCD2-3149F98C0D2B}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="datumdo"
+          DTS:DTSID="{772C33B9-7139-4196-AFCB-2D4A13768B0E}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x007C_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="cena_celkem"
+          DTS:DTSID="{68A2AB3D-E6C4-42D5-8D43-58FD40FB390D}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x000D__x000A_"
+          DTS:MaximumWidth="50"
+          DTS:DataType="129"
+          DTS:TextQualified="True"
+          DTS:ObjectName="naklady_celkem"
+          DTS:DTSID="{0BA0EFAB-3EA2-427D-86C9-980EE2972E27}"
+          DTS:CreationName="" />
+      </DTS:FlatFileColumns>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
