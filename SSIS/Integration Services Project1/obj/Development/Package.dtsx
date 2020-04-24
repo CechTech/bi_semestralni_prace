@@ -11,8 +11,8 @@
   DTS:LocaleID="1029"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="66"
-  DTS:VersionGUID="{2E767B5F-D377-4C3F-8543-3A79FB70DD1D}">
+  DTS:VersionBuild="67"
+  DTS:VersionGUID="{04B9DC2E-0239-4C82-A18B-AB67F4262247}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -6650,114 +6650,114 @@
               startId="Package\Extract to D_Platba\Derived Column 2 1 1.Outputs[Derived Column Output]" />
             <path
               refId="Package\Extract to D_Platba.Paths[Derived Column Output10]"
-              endId="Package\Extract to D_Platba\OLE DB Destination.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output9]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 1.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output8]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 2.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output7]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 2 1 1 1 1.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output6]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 3.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 3.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output11]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 2 2.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 2 2.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output4]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 1 1.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 1 1.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output3]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 2 2 1.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 2 2 1.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output2]"
-              endId="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1.Inputs[OLE DB Destination Input]"
-              name="Derived Column Output"
-              startId="Package\Extract to D_Platba\Derived Column 2 1 1 1.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output1]"
               endId="Package\Extract to D_Platba\OLE DB Destination 2 2 1 1.Inputs[OLE DB Destination Input]"
               name="Derived Column Output"
               startId="Package\Extract to D_Platba\Derived Column 2 2 1 1.Outputs[Derived Column Output]" />
             <path
-              refId="Package\Extract to D_Platba.Paths[Derived Column Output5]"
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output9]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 2 1 1 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output8]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 2 2 1.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 2 2 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output7]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 1 1.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 1 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output6]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 2 2.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 2 2.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output11]"
               endId="Package\Extract to D_Platba\OLE DB Destination 2 1.Inputs[OLE DB Destination Input]"
               name="Derived Column Output"
               startId="Package\Extract to D_Platba\Derived Column 2 1.Outputs[Derived Column Output]" />
             <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output4]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 2 1 1 1 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output3]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 2.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output2]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output1]"
+              endId="Package\Extract to D_Platba\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[Derived Column Output5]"
+              endId="Package\Extract to D_Platba\OLE DB Destination 3.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\Extract to D_Platba\Derived Column 3.Outputs[Derived Column Output]" />
+            <path
               refId="Package\Extract to D_Platba.Paths[OLE DB Source Output9]"
-              endId="Package\Extract to D_Platba\Derived Column 3.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_mzdy_plan.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output8]"
-              endId="Package\Extract to D_Platba\Derived Column 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_osobni_skutecnost.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output7]"
-              endId="Package\Extract to D_Platba\Derived Column 2 1 1 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_zdroje_skutecnost.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output6]"
-              endId="Package\Extract to D_Platba\Derived Column 2 2 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_zdroje_plan.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output5]"
-              endId="Package\Extract to D_Platba\Derived Column 2.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_rezie_plan.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output3]"
-              endId="Package\Extract to D_Platba\Derived Column 2 1 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_najem_skutecnost.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output2]"
-              endId="Package\Extract to D_Platba\Derived Column 2 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_rezie_skutecnost.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output1]"
-              endId="Package\Extract to D_Platba\Derived Column 2 2.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\vydaje_najem_plan.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output]"
-              endId="Package\Extract to D_Platba\Derived Column 2 2 1 1.Inputs[Derived Column Input]"
-              name="OLE DB Source Output"
-              startId="Package\Extract to D_Platba\prijmy_plan.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output10]"
               endId="Package\Extract to D_Platba\Derived Column 1 1.Inputs[Derived Column Input]"
               name="OLE DB Source Output"
               startId="Package\Extract to D_Platba\vydaje_mzdy_skutecnost.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output4]"
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output8]"
+              endId="Package\Extract to D_Platba\Derived Column 2 2 1 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\prijmy_plan.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output7]"
+              endId="Package\Extract to D_Platba\Derived Column 2 2.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_najem_plan.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output6]"
+              endId="Package\Extract to D_Platba\Derived Column 2 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_rezie_skutecnost.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output5]"
+              endId="Package\Extract to D_Platba\Derived Column 2 1 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_najem_skutecnost.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output3]"
+              endId="Package\Extract to D_Platba\Derived Column 2 2 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_zdroje_plan.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output2]"
+              endId="Package\Extract to D_Platba\Derived Column 2 1 1 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_zdroje_skutecnost.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output1]"
+              endId="Package\Extract to D_Platba\Derived Column 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_osobni_skutecnost.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output]"
+              endId="Package\Extract to D_Platba\Derived Column 3.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_mzdy_plan.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output10]"
               endId="Package\Extract to D_Platba\Derived Column 2 1 1 1 1.Inputs[Derived Column Input]"
               name="OLE DB Source Output"
               startId="Package\Extract to D_Platba\prijmy_skutecnost.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Extract to D_Platba.Paths[OLE DB Source Output4]"
+              endId="Package\Extract to D_Platba\Derived Column 2.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Extract to D_Platba\vydaje_rezie_plan.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\Extract to D_Platba.Paths[OLE DB Source Output11]"
               endId="Package\Extract to D_Platba\Derived Column.Inputs[Derived Column Input]"
@@ -7721,6 +7721,108 @@
           version="1">
           <components>
             <component
+              refId="Package\Extract to F_Kontrakt\Data Conversion"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input].Columns[cena_celkem_kc]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="cena_celkem_kc"
+                      lineageId="Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[cena_celkem_kc]" />
+                    <inputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input].Columns[naklady_celkem_kc]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="naklady_celkem_kc"
+                      lineageId="Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[naklady_celkem_kc]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of cena_celkem_kc]"
+                      dataType="cy"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of cena_celkem_kc]"
+                      name="Copy of cena_celkem_kc"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[cena_celkem_kc]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of naklady_celkem_kc]"
+                      dataType="cy"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of naklady_celkem_kc]"
+                      name="Copy of naklady_celkem_kc"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[naklady_celkem_kc]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Extract to F_Kontrakt\Derived Column"
               componentClassID="Microsoft.DerivedColumn"
               contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -8191,20 +8293,6 @@
                       externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[IdKontrakt]"
                       lineageId="Package\Extract to F_Kontrakt\Flat File Source.Outputs[Flat File Source Output].Columns[idkontr]" />
                     <inputColumn
-                      refId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[cena_celkem_kc]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="cena_celkem_kc"
-                      externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CenaCelkem]"
-                      lineageId="Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[cena_celkem_kc]" />
-                    <inputColumn
-                      refId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[naklady_celkem_kc]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="naklady_celkem_kc"
-                      externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NakladyCelkem]"
-                      lineageId="Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output].Columns[naklady_celkem_kc]" />
-                    <inputColumn
                       refId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[idzak]"
                       cachedCodepage="1250"
                       cachedDataType="str"
@@ -8220,6 +8308,18 @@
                       cachedName="idzdroje"
                       externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[IdZdroj]"
                       lineageId="Package\Extract to F_Kontrakt\Flat File Source.Outputs[Flat File Source Output].Columns[idzdroje]" />
+                    <inputColumn
+                      refId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of cena_celkem_kc]"
+                      cachedDataType="cy"
+                      cachedName="Copy of cena_celkem_kc"
+                      externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CenaCelkem]"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of cena_celkem_kc]" />
+                    <inputColumn
+                      refId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of naklady_celkem_kc]"
+                      cachedDataType="cy"
+                      cachedName="Copy of naklady_celkem_kc"
+                      externalMetadataColumnId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NakladyCelkem]"
+                      lineageId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of naklady_celkem_kc]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -8282,8 +8382,13 @@
           </components>
           <paths>
             <path
-              refId="Package\Extract to F_Kontrakt.Paths[Derived Column Output]"
+              refId="Package\Extract to F_Kontrakt.Paths[Data Conversion Output]"
               endId="Package\Extract to F_Kontrakt\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Extract to F_Kontrakt\Data Conversion.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Extract to F_Kontrakt.Paths[Derived Column Output]"
+              endId="Package\Extract to F_Kontrakt\Data Conversion.Inputs[Data Conversion Input]"
               name="Derived Column Output"
               startId="Package\Extract to F_Kontrakt\Derived Column.Outputs[Derived Column Output]" />
             <path
@@ -10580,21 +10685,25 @@
           Id="Package\Data Flow D_Kategorie_Zakaznik"
           TopLeft="43,410" />
         <NodeLayout
-          Size="170,42"
-          Id="Package\Extract to D_Platba"
-          TopLeft="637,266" />
-        <NodeLayout
           Size="196,42"
           Id="Package\Data Flow D_Typ_Zdroje"
           TopLeft="353,411" />
         <NodeLayout
-          Size="182,42"
-          Id="Package\Extract to D_Zakaznik"
-          TopLeft="628,98" />
-        <NodeLayout
           Size="167,42"
           Id="Package\Data Flow D_Zdroj"
           TopLeft="368,339" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Extract to D_Platba"
+          TopLeft="637,266" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Extract to D_Pobocka"
+          TopLeft="631,11.5" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\Extract to D_Zakaznik"
+          TopLeft="628,98" />
         <NodeLayout
           Size="179,42"
           Id="Package\Extract to F_Kontrakt"
@@ -10662,6 +10771,69 @@
           Size="260,299"
           Id="Package\INSERT enums"
           TopLeft="24,79" />
+        <NodeLayout
+          Size="201,42"
+          Id="Package\Locality\Extract to D_Lokalita_Kraj"
+          TopLeft="36,160.5" />
+        <NodeLayout
+          Size="211,42"
+          Id="Package\Locality\Extract to D_Lokalita_Mesto"
+          TopLeft="29,21.5" />
+        <NodeLayout
+          Size="210,42"
+          Id="Package\Locality\Extract to D_Lokalita_Okres"
+          TopLeft="31,90.5" />
+        <EdgeLayout
+          Id="Package\Locality.PrecedenceConstraints[Constraint 7]"
+          TopLeft="136.25,160.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,-28"
+              Start="0,0"
+              End="0,-20.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-20.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Locality.PrecedenceConstraints[Constraint 8]"
+          TopLeft="135.25,90.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,-27"
+              Start="0,0"
+              End="0,-19.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-19.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="270,254"
+          Size="270,296"
+          Id="Package\Locality"
+          TopLeft="312,13" />
         <NodeLayout
           Size="152,42"
           Id="Package\Reset Database"
@@ -10755,117 +10927,6 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="277,431.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="76,0"
-              Start="0,0"
-              End="68.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="68.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="451.25,411">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,-30"
-              Start="0,0"
-              End="0,-22.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-22.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="201,42"
-          Id="Package\Locality\Extract to D_Lokalita_Kraj"
-          TopLeft="36,160.5" />
-        <EdgeLayout
-          Id="Package\Locality.PrecedenceConstraints[Constraint 7]"
-          TopLeft="136.25,160.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,-28"
-              Start="0,0"
-              End="0,-20.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-20.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="211,42"
-          Id="Package\Locality\Extract to D_Lokalita_Mesto"
-          TopLeft="29,21.5" />
-        <EdgeLayout
-          Id="Package\Locality.PrecedenceConstraints[Constraint 8]"
-          TopLeft="135.25,90.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,-27"
-              Start="0,0"
-              End="0,-19.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-19.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="210,42"
-          Id="Package\Locality\Extract to D_Lokalita_Okres"
-          TopLeft="31,90.5" />
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="270,254"
-          Size="270,296"
-          Id="Package\Locality"
-          TopLeft="312,13" />
-        <NodeLayout
-          Size="180,42"
-          Id="Package\Extract to D_Pobocka"
-          TopLeft="631,11.5" />
-        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="449.25,339">
           <EdgeLayout.Curve>
@@ -10913,6 +10974,50 @@
                     Point3="28.5,-128.5" />
                   <mssgle:LineSegment
                     End="41.5,-128.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="277,431.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="76,0"
+              Start="0,0"
+              End="68.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="68.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 5]"
+          TopLeft="451.25,411">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,-30"
+              Start="0,0"
+              End="0,-22.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-22.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -11001,6 +11106,1469 @@
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Data Flow D_Kategorie_Zakaznik\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Data Flow D_Typ_Zdroje">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="150,42"
+          Id="Package\Data Flow D_Typ_Zdroje\OLE DB Source"
+          TopLeft="299,44" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Data Flow D_Typ_Zdroje\OLE DB Destination"
+          TopLeft="286,125" />
+        <EdgeLayout
+          Id="Package\Data Flow D_Typ_Zdroje.Paths[OLE DB Source Output]"
+          TopLeft="372.75,86">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,39"
+              Start="0,0"
+              End="0,31.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow D_Typ_Zdroje\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow D_Typ_Zdroje\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Data Flow D_Zdroj">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Data Flow D_Zdroj\OLE DB Destination"
+          TopLeft="221,237" />
+        <NodeLayout
+          Size="150,42"
+          Id="Package\Data Flow D_Zdroj\OLE DB Source"
+          TopLeft="238,138" />
+        <EdgeLayout
+          Id="Package\Data Flow D_Zdroj.Paths[OLE DB Source Output]"
+          TopLeft="309.75,180">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,57"
+              Start="0,0"
+              End="0,49.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,49.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow D_Zdroj\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow D_Zdroj\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Extract to D_Platba">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 3"
+          TopLeft="757,161" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 2"
+          TopLeft="505,157" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 3"
+          TopLeft="765,93" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 1 1"
+          TopLeft="527,304" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Extract to D_Platba\vydaje_zdroje_plan"
+          TopLeft="982,22" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1"
+          TopLeft="519,372" />
+        <NodeLayout
+          Size="202,42"
+          Id="Package\Extract to D_Platba\vydaje_osobni_skutecnost"
+          TopLeft="16,234" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 1 1"
+          TopLeft="756,371" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 2 1 1"
+          TopLeft="1208,91" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 1"
+          TopLeft="284,303" />
+        <NodeLayout
+          Size="164,42"
+          Id="Package\Extract to D_Platba\prijmy_skutecnost"
+          TopLeft="1217,237" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 2 1 1"
+          TopLeft="1200,159" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 2 1"
+          TopLeft="991,89" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2"
+          TopLeft="270,88" />
+        <NodeLayout
+          Size="166,42"
+          Id="Package\Extract to D_Platba\vydaje_mzdy_plan"
+          TopLeft="756,26" />
+        <NodeLayout
+          Size="194,42"
+          Id="Package\Extract to D_Platba\vydaje_rezie_skutecnost"
+          TopLeft="259,235" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 1"
+          TopLeft="276,371" />
+        <NodeLayout
+          Size="172,42"
+          Id="Package\Extract to D_Platba\vydaje_osobni_plan"
+          TopLeft="27,24" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 1"
+          TopLeft="27,369" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 2"
+          TopLeft="513,89" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 1 1"
+          TopLeft="764,303" />
+        <NodeLayout
+          Size="134,42"
+          Id="Package\Extract to D_Platba\prijmy_plan"
+          TopLeft="1219,23" />
+        <NodeLayout
+          Size="196,42"
+          Id="Package\Extract to D_Platba\vydaje_mzdy_skutecnost"
+          TopLeft="745,236" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 2 1"
+          TopLeft="983,157" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 1 1 1 1"
+          TopLeft="1224,305" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 1"
+          TopLeft="35,301" />
+        <NodeLayout
+          Size="200,42"
+          Id="Package\Extract to D_Platba\vydaje_zdroje_skutecnost"
+          TopLeft="980,236" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1"
+          TopLeft="997,372" />
+        <NodeLayout
+          Size="201,42"
+          Id="Package\Extract to D_Platba\vydaje_najem_skutecnost"
+          TopLeft="502,236" />
+        <NodeLayout
+          Size="164,42"
+          Id="Package\Extract to D_Platba\vydaje_rezie_plan"
+          TopLeft="261,21" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2"
+          TopLeft="262,156" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1"
+          TopLeft="1216,373" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Extract to D_Platba\vydaje_najem_plan"
+          TopLeft="504,22" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Platba\OLE DB Destination"
+          TopLeft="28,159" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column 2 1 1 1"
+          TopLeft="1005,304" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to D_Platba\Derived Column"
+          TopLeft="36,91" />
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output]"
+          TopLeft="840.5,68">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output1]"
+          TopLeft="114.5,276">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output2]"
+          TopLeft="1081,278">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output3]"
+          TopLeft="1067.5,64">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output4]"
+          TopLeft="345,63">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output10]"
+          TopLeft="1300,279">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output5]"
+          TopLeft="603.25,278">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output6]"
+          TopLeft="358.5,277">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output7]"
+          TopLeft="589.5,64">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output8]"
+          TopLeft="1285.5,65">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output6]"
+          TopLeft="590.25,131">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output1]"
+          TopLeft="113.25,133">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output2]"
+          TopLeft="112.25,343">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output3]"
+          TopLeft="347.25,130">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output4]"
+          TopLeft="1301.25,347">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output5]"
+          TopLeft="842.25,135">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output11]"
+          TopLeft="361.25,345">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output7]"
+          TopLeft="841.25,345">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output8]"
+          TopLeft="1068.25,131">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output9]"
+          TopLeft="1082.25,346">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output10]"
+          TopLeft="1285.25,133">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[Derived Column Output]"
+          TopLeft="604.25,346">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,26"
+              Start="0,0"
+              End="0,18.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output11]"
+          TopLeft="113,66">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output9]"
+          TopLeft="842,278">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 3">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_zdroje_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_osobni_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 1 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\prijmy_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2 1 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_mzdy_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_rezie_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_osobni_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\prijmy_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_mzdy_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_zdroje_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_najem_skutecnost">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_rezie_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\vydaje_najem_plan">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Platba\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Extract to D_Pobocka">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="150,42"
+          Id="Package\Extract to D_Pobocka\OLE DB Source"
+          TopLeft="187,48" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Pobocka\OLE DB Destination"
+          TopLeft="171,244" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Extract to D_Pobocka\Data Conversion"
+          TopLeft="180,137" />
+        <EdgeLayout
+          Id="Package\Extract to D_Pobocka.Paths[OLE DB Source Output]"
+          TopLeft="260,90">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,47"
+              Start="0,0"
+              End="0,39.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,39.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Pobocka.Paths[Data Conversion Output]"
+          TopLeft="257.25,179">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,65"
+              Start="0,0"
+              End="0,57.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,57.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Pobocka\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Pobocka\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Extract to D_Zakaznik">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="150,42"
+          Id="Package\Extract to D_Zakaznik\OLE DB Source"
+          TopLeft="232,115" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to D_Zakaznik\OLE DB Destination"
+          TopLeft="227,296" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Extract to D_Zakaznik\Data Conversion"
+          TopLeft="231,211" />
+        <EdgeLayout
+          Id="Package\Extract to D_Zakaznik.Paths[OLE DB Source Output]"
+          TopLeft="308,157">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,54"
+              Start="0,0"
+              End="0,46.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,46.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to D_Zakaznik.Paths[Data Conversion Output]"
+          TopLeft="310.75,253">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,43"
+              Start="0,0"
+              End="0,35.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,35.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Zakaznik\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to D_Zakaznik\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Extract to F_Kontrakt">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Extract to F_Kontrakt\OLE DB Destination"
+          TopLeft="255,422" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Extract to F_Kontrakt\Flat File Source"
+          TopLeft="259,162" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Extract to F_Kontrakt\Derived Column"
+          TopLeft="258,236" />
+        <EdgeLayout
+          Id="Package\Extract to F_Kontrakt.Paths[Flat File Source Output]"
+          TopLeft="334.75,204">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,32"
+              Start="0,0"
+              End="0,24.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,24.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Extract to F_Kontrakt\Data Conversion"
+          TopLeft="260,324" />
+        <EdgeLayout
+          Id="Package\Extract to F_Kontrakt.Paths[Derived Column Output]"
+          TopLeft="336.5,278">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,46"
+              Start="0,0"
+              End="0,38.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,38.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract to F_Kontrakt.Paths[Data Conversion Output]"
+          TopLeft="339.25,366">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,56"
+              Start="0,0"
+              End="0,48.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,48.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract to F_Kontrakt\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -11507,1447 +13075,6 @@
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Locality\Extract to D_Lokalita_Okres\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Extract to D_Platba">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 3"
-          TopLeft="757,161" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 2"
-          TopLeft="505,157" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 3"
-          TopLeft="765,93" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 1 1"
-          TopLeft="527,304" />
-        <NodeLayout
-          Size="170,42"
-          Id="Package\Extract to D_Platba\vydaje_zdroje_plan"
-          TopLeft="982,22" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1"
-          TopLeft="519,372" />
-        <NodeLayout
-          Size="202,42"
-          Id="Package\Extract to D_Platba\vydaje_osobni_skutecnost"
-          TopLeft="16,234" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 1 1"
-          TopLeft="756,371" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 2 1 1"
-          TopLeft="1208,91" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 1"
-          TopLeft="284,303" />
-        <NodeLayout
-          Size="164,42"
-          Id="Package\Extract to D_Platba\prijmy_skutecnost"
-          TopLeft="1217,237" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 2 1 1"
-          TopLeft="1200,159" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 2 1"
-          TopLeft="991,89" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2"
-          TopLeft="270,88" />
-        <NodeLayout
-          Size="166,42"
-          Id="Package\Extract to D_Platba\vydaje_mzdy_plan"
-          TopLeft="756,26" />
-        <NodeLayout
-          Size="194,42"
-          Id="Package\Extract to D_Platba\vydaje_rezie_skutecnost"
-          TopLeft="259,235" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 1"
-          TopLeft="276,371" />
-        <NodeLayout
-          Size="172,42"
-          Id="Package\Extract to D_Platba\vydaje_osobni_plan"
-          TopLeft="27,24" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 1"
-          TopLeft="27,369" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 2"
-          TopLeft="513,89" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 1 1"
-          TopLeft="764,303" />
-        <NodeLayout
-          Size="134,42"
-          Id="Package\Extract to D_Platba\prijmy_plan"
-          TopLeft="1219,23" />
-        <NodeLayout
-          Size="196,42"
-          Id="Package\Extract to D_Platba\vydaje_mzdy_skutecnost"
-          TopLeft="745,236" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 2 1"
-          TopLeft="983,157" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 1 1 1 1"
-          TopLeft="1224,305" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 1"
-          TopLeft="35,301" />
-        <NodeLayout
-          Size="200,42"
-          Id="Package\Extract to D_Platba\vydaje_zdroje_skutecnost"
-          TopLeft="980,236" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1"
-          TopLeft="997,372" />
-        <NodeLayout
-          Size="201,42"
-          Id="Package\Extract to D_Platba\vydaje_najem_skutecnost"
-          TopLeft="502,236" />
-        <NodeLayout
-          Size="164,42"
-          Id="Package\Extract to D_Platba\vydaje_rezie_plan"
-          TopLeft="261,21" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2"
-          TopLeft="262,156" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1"
-          TopLeft="1216,373" />
-        <NodeLayout
-          Size="170,42"
-          Id="Package\Extract to D_Platba\vydaje_najem_plan"
-          TopLeft="504,22" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Platba\OLE DB Destination"
-          TopLeft="28,159" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column 2 1 1 1"
-          TopLeft="1005,304" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to D_Platba\Derived Column"
-          TopLeft="36,91" />
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output]"
-          TopLeft="1285.5,65">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output1]"
-          TopLeft="589.5,64">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output2]"
-          TopLeft="358.5,277">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output3]"
-          TopLeft="603.25,278">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output4]"
-          TopLeft="1300,279">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output10]"
-          TopLeft="842,278">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output5]"
-          TopLeft="345,63">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output6]"
-          TopLeft="1067.5,64">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output7]"
-          TopLeft="1081,278">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output8]"
-          TopLeft="114.5,276">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output6]"
-          TopLeft="842.25,135">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output1]"
-          TopLeft="1285.25,133">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output2]"
-          TopLeft="1082.25,346">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output3]"
-          TopLeft="1068.25,131">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output4]"
-          TopLeft="841.25,345">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output5]"
-          TopLeft="361.25,345">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output11]"
-          TopLeft="590.25,131">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output7]"
-          TopLeft="1301.25,347">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output8]"
-          TopLeft="347.25,130">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output9]"
-          TopLeft="112.25,343">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output10]"
-          TopLeft="113.25,133">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[Derived Column Output]"
-          TopLeft="604.25,346">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output11]"
-          TopLeft="113,66">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Platba.Paths[OLE DB Source Output9]"
-          TopLeft="840.5,68">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 3">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_zdroje_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_osobni_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 1 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\prijmy_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2 1 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_mzdy_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_rezie_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_osobni_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\prijmy_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_mzdy_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 2 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_zdroje_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_najem_skutecnost">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_rezie_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination 2 1 1 1 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\vydaje_najem_plan">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Platba\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Extract to D_Pobocka">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="150,42"
-          Id="Package\Extract to D_Pobocka\OLE DB Source"
-          TopLeft="187,48" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Pobocka\OLE DB Destination"
-          TopLeft="171,244" />
-        <NodeLayout
-          Size="156,42"
-          Id="Package\Extract to D_Pobocka\Data Conversion"
-          TopLeft="180,137" />
-        <EdgeLayout
-          Id="Package\Extract to D_Pobocka.Paths[OLE DB Source Output]"
-          TopLeft="260,90">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,47"
-              Start="0,0"
-              End="0,39.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,39.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Pobocka.Paths[Data Conversion Output]"
-          TopLeft="257.25,179">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,65"
-              Start="0,0"
-              End="0,57.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,57.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Pobocka\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Pobocka\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Data Flow D_Typ_Zdroje">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="150,42"
-          Id="Package\Data Flow D_Typ_Zdroje\OLE DB Source"
-          TopLeft="299,44" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Data Flow D_Typ_Zdroje\OLE DB Destination"
-          TopLeft="286,125" />
-        <EdgeLayout
-          Id="Package\Data Flow D_Typ_Zdroje.Paths[OLE DB Source Output]"
-          TopLeft="372.75,86">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,39"
-              Start="0,0"
-              End="0,31.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,31.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow D_Typ_Zdroje\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow D_Typ_Zdroje\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Extract to D_Zakaznik">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="150,42"
-          Id="Package\Extract to D_Zakaznik\OLE DB Source"
-          TopLeft="232,115" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to D_Zakaznik\OLE DB Destination"
-          TopLeft="227,296" />
-        <NodeLayout
-          Size="156,42"
-          Id="Package\Extract to D_Zakaznik\Data Conversion"
-          TopLeft="231,211" />
-        <EdgeLayout
-          Id="Package\Extract to D_Zakaznik.Paths[OLE DB Source Output]"
-          TopLeft="308,157">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,54"
-              Start="0,0"
-              End="0,46.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,46.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to D_Zakaznik.Paths[Data Conversion Output]"
-          TopLeft="310.75,253">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,43"
-              Start="0,0"
-              End="0,35.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Zakaznik\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to D_Zakaznik\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Data Flow D_Zdroj">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Data Flow D_Zdroj\OLE DB Destination"
-          TopLeft="221,237" />
-        <NodeLayout
-          Size="150,42"
-          Id="Package\Data Flow D_Zdroj\OLE DB Source"
-          TopLeft="238,138" />
-        <EdgeLayout
-          Id="Package\Data Flow D_Zdroj.Paths[OLE DB Source Output]"
-          TopLeft="309.75,180">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,57"
-              Start="0,0"
-              End="0,49.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,49.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow D_Zdroj\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow D_Zdroj\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Extract to F_Kontrakt">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Extract to F_Kontrakt\OLE DB Destination"
-          TopLeft="253,374" />
-        <NodeLayout
-          Size="151,42"
-          Id="Package\Extract to F_Kontrakt\Flat File Source"
-          TopLeft="259,162" />
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Extract to F_Kontrakt\Derived Column"
-          TopLeft="255,266" />
-        <EdgeLayout
-          Id="Package\Extract to F_Kontrakt.Paths[Flat File Source Output]"
-          TopLeft="333.25,204">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,62"
-              Start="0,0"
-              End="0,54.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,54.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Extract to F_Kontrakt.Paths[Derived Column Output]"
-          TopLeft="335.25,308">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,66"
-              Start="0,0"
-              End="0,58.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,58.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract to F_Kontrakt\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
